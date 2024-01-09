@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+h1 {
+    color: #473e7f;
+    text-align: center;
+    font-weight: bold;
+}
+h2 {
+    color: #778692;
+    font-weight: bold;
+}
+
+pre {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    font-size: small;
+    font-style: italic;
+}
